@@ -1,5 +1,5 @@
 # first-demo
 this is my first git repository.
 <br>
-Author:nabin thapa
+Author:nabin thapa bahadur.
 
